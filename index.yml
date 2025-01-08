@@ -6,3 +6,5 @@ contacts:
   - displayName: Adam Smeets
     pictureUrl: https://avatars.githubusercontent.com/u/90738?v=4
     homePageUrl: https://github.com/asmeets
+units:
+  - unit1/index.yml
